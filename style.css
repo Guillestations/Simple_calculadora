@@ -93,7 +93,7 @@ body::after
     user-select: none;
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
     border-right: 1px solid rgba(255, 255, 255, 0.1);
-    transition: 0.5s;
+    transition: 0.2s;
 }
 
 .container .calculadora span:hover
@@ -109,7 +109,7 @@ body::after
     color: #cfe9b1;
     
     font-weight: 500;
-    transition: 0.8s;
+    transition: 0.2s;
 }
 
 .container .calculadora .borrar
